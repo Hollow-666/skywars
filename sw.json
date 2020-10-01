@@ -1,0 +1,652 @@
+[
+  {
+    "name": "autoclicker",
+    "enabled": false,
+    "hidden": false,
+    "CPS": "8-10"
+  },
+  {
+    "name": "targetstrafe",
+    "enabled": false,
+    "hidden": false,
+    "Players": "true",
+    "Animals": "false",
+    "Monsters": "false",
+    "Invisibles": "false",
+    "Teams": "false",
+    "Range": "4.2",
+    "Distance": "2.0",
+    "Press Space only": "true"
+  },
+  {
+    "name": "esp",
+    "enabled": true,
+    "hidden": true,
+    "Players": "true",
+    "Animals": "false",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "true",
+    "Box": "true",
+    "Health": "true",
+    "Armor": "true",
+    "Filled": "true",
+    "Corner": "true",
+    "Thickness": "1.5",
+    "Color": "-5256720"
+  },
+  {
+    "name": "reach",
+    "enabled": false,
+    "hidden": false,
+    "Range": "4.05"
+  },
+  {
+    "name": "sprint",
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "name": "autotool",
+    "enabled": false,
+    "hidden": false,
+    "MouseCheck": "true"
+  },
+  {
+    "name": "vanishdetector",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "xray",
+    "enabled": false,
+    "hidden": false,
+    "OPACITY": "160.0",
+    "Dis": "255.0",
+    "CAVE": "true",
+    "Coord": "false",
+    "Tags": "false",
+    "Tracers": "false",
+    "ESP": "true",
+    "Coal": "false",
+    "RedStone": "false",
+    "Iron": "true",
+    "Gold": "true",
+    "UHC": "true",
+    "Null": "true",
+    "Super": "false",
+    "Diamond": "true",
+    "Emerald": "false",
+    "Lapis": "false"
+  },
+  {
+    "name": "murdermystery",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "autosword",
+    "enabled": false,
+    "hidden": false,
+    "Delay": "100",
+    "Slot": "0",
+    "Inventory Only": "false"
+  },
+  {
+    "name": "aimassist",
+    "enabled": false,
+    "hidden": false,
+    "Range": "4.0",
+    "Players": "true",
+    "Animals": "false",
+    "Monsters": "false",
+    "Invisibles": "false"
+  },
+  {
+    "name": "timechanger",
+    "enabled": true,
+    "hidden": false,
+    "Time": "11300"
+  },
+  {
+    "name": "skeletonesp",
+    "enabled": false,
+    "hidden": true,
+    "VisibleOnly": "false",
+    "Width": "1.0"
+  },
+  {
+    "name": "mcf",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "autoapple",
+    "enabled": true,
+    "hidden": false,
+    "Eat heads": "true",
+    "Eat apples": "true",
+    "Health": "15",
+    "Delay": "750"
+  },
+  {
+    "name": "fullbright",
+    "enabled": true,
+    "hidden": true
+  },
+  {
+    "name": "sneak",
+    "enabled": false,
+    "hidden": false,
+    "Mode": "VANILLA"
+  },
+  {
+    "name": "memoryfix",
+    "enabled": true,
+    "hidden": false,
+    "Delay": "1000"
+  },
+  {
+    "name": "antibot",
+    "enabled": true,
+    "hidden": false,
+    "Mode": "HYPIXEL",
+    "Remove Bots": "false"
+  },
+  {
+    "name": "phase",
+    "enabled": false,
+    "hidden": false,
+    "Mode": "Hypixel",
+    "Distance": "2.0",
+    "Vanilla Speed": "0.5",
+    "Vertical Speed": "0.5"
+  },
+  {
+    "name": "fastbow",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "bugfly",
+    "enabled": false,
+    "hidden": false,
+    "Bosst Speed": "1.219",
+    "Timer time": "1.0",
+    "Timer Speed": "0.45",
+    "Free Speed": "2.2",
+    "Wait": "true",
+    "Extra Option": "true"
+  },
+  {
+    "name": "tracers",
+    "enabled": false,
+    "hidden": true,
+    "Players": "true",
+    "Animals": "true",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "true",
+    "Width": "1.0"
+  },
+  {
+    "name": "antiaim",
+    "enabled": false,
+    "hidden": false,
+    "Mode": "EXPERIMENTAL",
+    "Speed": "25",
+    "Killaura Protection": "true"
+  },
+  {
+    "name": "criticals",
+    "enabled": true,
+    "hidden": false,
+    "Mode": "HYPIXEL"
+  },
+  {
+    "name": "disabler",
+    "enabled": false,
+    "hidden": true,
+    "Mode": "DEV"
+  },
+  {
+    "name": "animation",
+    "enabled": true,
+    "hidden": true,
+    "Mode": "NORMAL",
+    "X": "0.0",
+    "Y": "1.0",
+    "Zoom": "0.2",
+    "Scale": "0.5",
+    "EnchantEffect Red": "255.0",
+    "EnchantEffect Green": "189.0",
+    "EnchantEffect Blue": "255.0",
+    "RotationItem Speed": "0.7",
+    "Rotation Item": "true",
+    "Enchant Effect": "false",
+    "Enchant Effect Layer": "false"
+  },
+  {
+    "name": "chatbypass",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "jesus",
+    "enabled": true,
+    "hidden": false,
+    "Mode": "HYPIXEL"
+  },
+  {
+    "name": "norotate",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "clickgui",
+    "enabled": false,
+    "hidden": true,
+    "MaterialUI": "true"
+  },
+  {
+    "name": "antiobbytrap",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "killaura",
+    "enabled": false,
+    "hidden": false,
+    "CPS": "12-14",
+    "Range": "4.2",
+    "Block Range": "4.4",
+    "Max Targets": "2",
+    "Switch Speed": "300",
+    "Players": "true",
+    "Animals": "true",
+    "Monsters": "true",
+    "Invisibles": "false",
+    "AutoBlock": "true",
+    "Dynamic": "false",
+    "Target ESP": "true",
+    "Target HUD": "true",
+    "Teams": "true",
+    "Sort Mode": "FOV",
+    "Mode": "SWITCH",
+    "Dura": "false",
+    "MultiTargets": "3",
+    "MultiFOV": "75"
+  },
+  {
+    "name": "fast ladder",
+    "enabled": false,
+    "hidden": false,
+    "Mode": "NORMAL"
+  },
+  {
+    "name": "viewclip",
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "name": "detector",
+    "enabled": false,
+    "hidden": false,
+    "Autodisable": "true",
+    "Unblock": "false",
+    "Chat": "false",
+    "Strict": "false",
+    "CheatingWarning": "true",
+    "AutoNoU": "false"
+  },
+  {
+    "name": "nofall",
+    "enabled": true,
+    "hidden": false,
+    "Hypixel": "true",
+    "Hypixel UHC": "true"
+  },
+  {
+    "name": "speedmine",
+    "enabled": true,
+    "hidden": true,
+    "Speed": "1.0"
+  },
+  {
+    "name": "flight",
+    "enabled": false,
+    "hidden": false,
+    "Mode": "HYPIXEL",
+    "Boost Mode": "NORMAL",
+    "Damage Mode": "NORMAL",
+    "ViewBob": "true",
+    "Boost": "true",
+    "Extra Boost": "true",
+    "Fly Speed": "3.0"
+  },
+  {
+    "name": "voidbounce",
+    "enabled": false,
+    "hidden": false,
+    "MinFallenBlocks": "10.0",
+    "MotionY": "200.0"
+  },
+  {
+    "name": "antivoid",
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "name": "invcleaner",
+    "enabled": false,
+    "hidden": false,
+    "Delay": "100",
+    "Toggle": "false",
+    "Inventory Only": "false",
+    "Keep Tools": "false"
+  },
+  {
+    "name": "trajectories",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "teleport",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "regen",
+    "enabled": false,
+    "hidden": false,
+    "Mode": "FAITHFUL",
+    "Speed": "25.0"
+  },
+  {
+    "name": "nohurtcam",
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "name": "blink",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "noslowdown",
+    "enabled": true,
+    "hidden": false,
+    "Vanilla": "true",
+    "Items": "true",
+    "Sprint": "true",
+    "SoulSand": "true"
+  },
+  {
+    "name": "waypoints",
+    "enabled": true,
+    "hidden": true,
+    "Font": "false",
+    "WaypointFont": "Arial-0-16-true-true"
+  },
+  {
+    "name": "speed",
+    "enabled": false,
+    "hidden": false,
+    "Mode": "HYPIXELBHOP",
+    "Boost": "1.0"
+  },
+  {
+    "name": "longjump",
+    "enabled": false,
+    "hidden": false,
+    "Boost": "3.0",
+    "Mode": "HYPIXEL"
+  },
+  {
+    "name": "antifreeze",
+    "enabled": false,
+    "hidden": false,
+    "SafeTP": "true"
+  },
+  {
+    "name": "autoarmor",
+    "enabled": true,
+    "hidden": false,
+    "Drop": "false",
+    "Delay": "250",
+    "Inventory Only": "false"
+  },
+  {
+    "name": "automatchjoin",
+    "enabled": true,
+    "hidden": true,
+    "Type": "Insane",
+    "Auto Detect": "true",
+    "Teams only mode": "false",
+    "Delay": "2950"
+  },
+  {
+    "name": "unstuck",
+    "enabled": false,
+    "hidden": false,
+    "Delay": "500",
+    "Automated": "true"
+  },
+  {
+    "name": "offscreenesp",
+    "enabled": false,
+    "hidden": true,
+    "Visible": "-16717825",
+    "LowHealth": "-65520",
+    "Size": "5.0",
+    "Radius": "45",
+    "Fade": "false",
+    "Players": "true",
+    "Animals": "false",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "false"
+  },
+  {
+    "name": "autoheal",
+    "enabled": false,
+    "hidden": false,
+    "Soups": "false",
+    "Potions": "true",
+    "Jump": "false",
+    "Regen Pots": "true",
+    "Speed Pots": "true",
+    "Health": "10",
+    "Delay": "5"
+  },
+  {
+    "name": "gay",
+    "enabled": false,
+    "hidden": false,
+    "Yaw": "1.0",
+    "Pitch": "42.0",
+    "Mode": "AXD"
+  },
+  {
+    "name": "copsncrims",
+    "enabled": false,
+    "hidden": false,
+    "Delay": "300",
+    "Target ESP": "true"
+  },
+  {
+    "name": "chams",
+    "enabled": false,
+    "hidden": true,
+    "Visible": "-16717825",
+    "Hidden": "-65520",
+    "Visible Friend": "-13618945",
+    "Hidden Friend": "-57248",
+    "Players": "true",
+    "Animals": "false",
+    "Mobs": "true",
+    "Invisibles": "false",
+    "Passives": "false",
+    "ShowArmor": "false",
+    "Colored": "true",
+    "Hands": "true",
+    "Raindow": "false"
+  },
+  {
+    "name": "chestesp",
+    "enabled": true,
+    "hidden": true
+  },
+  {
+    "name": "freecam",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "autogg",
+    "enabled": true,
+    "hidden": true
+  },
+  {
+    "name": "invwalk",
+    "enabled": true,
+    "hidden": false
+  },
+  {
+    "name": "spammer",
+    "enabled": false,
+    "hidden": false,
+    "Delay": "1.0"
+  },
+  {
+    "name": "fastuse",
+    "enabled": false,
+    "hidden": false,
+    "Speed": "4.0"
+  },
+  {
+    "name": "nametags",
+    "enabled": true,
+    "hidden": true,
+    "Players": "true",
+    "Animals": "false",
+    "Mobs": "false",
+    "Invisibles": "false",
+    "Passives": "false",
+    "Health": "true",
+    "Armor": "true",
+    "Distance": "true",
+    "Potions": "true",
+    "StripColorCodes": "false",
+    "Color": "-1003089",
+    "BackdropMode": "BOTH",
+    "Font": "false",
+    "NameFont": "Arial-0-16-true-true"
+  },
+  {
+    "name": "velocity",
+    "enabled": true,
+    "hidden": false,
+    "Horizontal": "0",
+    "Vertical": "0",
+    "Mode": "NORMAL"
+  },
+  {
+    "name": "cheststealer",
+    "enabled": true,
+    "hidden": false,
+    "Delay": "100",
+    "ChestAura": "false",
+    "AuraRange": "4.0"
+  },
+  {
+    "name": "posfly",
+    "enabled": false,
+    "hidden": false
+  },
+  {
+    "name": "crosshair",
+    "enabled": false,
+    "hidden": true,
+    "Dynamic": "true",
+    "Width": "1.0",
+    "Gap": "3.0",
+    "Length": "7.0",
+    "DynamicGap": "1.5",
+    "Color": "-65536",
+    "Rainbow": "false",
+    "Static Rainbow": "false"
+  },
+  {
+    "name": "lightningcheck",
+    "enabled": true,
+    "hidden": true
+  },
+  {
+    "name": "scaffold",
+    "enabled": false,
+    "hidden": false,
+    "Mode": "NCP",
+    "Switch": "true",
+    "Hypixel": "true",
+    "Tower": "true",
+    "MoveTower": "false",
+    "KeepY": "false",
+    "noSwing": "true"
+  },
+  {
+    "name": "hud",
+    "enabled": true,
+    "hidden": true,
+    "Color": "-18446",
+    "Notifications": "true",
+    "Tab GUI": "false",
+    "XYZ": "true",
+    "FPS": "true",
+    "Ping": "true",
+    "Armor": "true",
+    "Point": "true",
+    "Healing Potions": "false",
+    "Background": "true",
+    "Animations": "true",
+    "Font": "true",
+    "Case Mode": "NORMAL",
+    "Color Mode": "RANDOM",
+    "Border Mode": "RIGHT",
+    "BackgroundAlpha": "183",
+    "BorderWidth": "0.9",
+    "HudFont": "Arial-0-18-true-true"
+  },
+  {
+    "name": "blinklag",
+    "enabled": false,
+    "hidden": false,
+    "Delay": "5"
+  },
+  {
+    "name": "bowaimbot",
+    "enabled": false,
+    "hidden": false,
+    "Players": "true",
+    "Animals": "false",
+    "Mobs": "false",
+    "Passives": "false",
+    "Invisibles": "false",
+    "SortMode": "FOV",
+    "Range": "70.0"
+  },
+  {
+    "name": "step",
+    "enabled": false,
+    "hidden": false,
+    "Height": "1.0",
+    "Delay": "300",
+    "Smooth": "true",
+    "Mode": "VANILLA"
+  },
+  {
+    "name": "cape",
+    "enabled": true,
+    "hidden": true
+  }
+]
